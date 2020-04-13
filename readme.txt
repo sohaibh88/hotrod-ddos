@@ -1,0 +1,1 @@
+perl hotrod-ddos.pl -dns google.com
